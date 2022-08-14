@@ -52,7 +52,7 @@ functionalities
 
 ---
 
-### 🛠 for test
+### for test
 
 BASE_URL=http://criptocurrencyapi-env-1.eba-ccqmhvnh.us-east-1.elasticbeanstalk.com
 
