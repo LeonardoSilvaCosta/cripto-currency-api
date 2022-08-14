@@ -58,7 +58,7 @@ functionalities
 Em busca do próximo nível 🚀 - Never stop learning. 🧑‍🎓
 
 <h4 align="center"> 
-	:tada:  🚀 Finalized  :tada:
+	 👷 Under Construction  🚧
 </h4>
 
 
