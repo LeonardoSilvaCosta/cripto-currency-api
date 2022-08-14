@@ -28,6 +28,9 @@ structure
 functionalities
 - [x] Integration application with CoinMarketCapApi
 - [x] Send a Requet to the api list criptocurrencies
+
+GET http://criptocurrencyapi-env-1.eba-ccqmhvnh.us-east-1.elasticbeanstalk.com/criptoCurrencies
+
 - [x] Modelation api reponse
 - [ ] List criptocurrency by id
 - [ ] Add new Criptocyrrency in the API list
