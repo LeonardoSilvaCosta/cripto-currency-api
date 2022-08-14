@@ -22,7 +22,7 @@ This Project is under construction and aims to meet the demand of a cliente.
 
 structure
 - [x] Controller: CoinMarketCapApiController
-- [x] Model: CoinMarketAPiData, CriptoCurrency
+- [x] Model: CoinMarketAPiData, CoinMarketResponseStatusData, CriptoCurrency, CriptoCurrencyPlatform, CriptoCurrencyQuote, USDCriptoCurrency.
 - [ ] Model: UserPost
 
 functionalities
