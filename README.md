@@ -1,4 +1,4 @@
-<h1 align="center">Cripto Currency API</h1>
+<h1 align="center">Criptocurrency API</h1>
 <p align="center">A Rest API from a Criptocurrency project</p>
 <img src="https://img.shields.io/static/v1?label=Spring&message=Work&color=6DB33F&style=for-the-badge&logo=SpringBoot">
 
