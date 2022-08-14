@@ -56,8 +56,8 @@ functionalities
 
 BASE_URL=http://criptocurrencyapi-env-1.eba-ccqmhvnh.us-east-1.elasticbeanstalk.com
 
-//lista todas as criptomoedas da API
-GET /criptoCurrencies
+<p>lista todas as criptomoedas da API</p>
+<p>GET /criptoCurrencies</p>
 
 ---
 
