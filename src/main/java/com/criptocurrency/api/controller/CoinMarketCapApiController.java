@@ -1,6 +1,7 @@
 package com.criptocurrency.api.controller;
 
 import com.criptocurrency.api.model.CoinMarketApiData;
+import org.springframework.boot.origin.SystemEnvironmentOrigin;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
