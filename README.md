@@ -15,7 +15,7 @@ Table of contents
 
 ### 💻 About
 
-This Project is under construction and aims to meet the demand of a cliente.
+This Project is under construction and aims to meet the demand of a client.
 
 ---
 ### Features
