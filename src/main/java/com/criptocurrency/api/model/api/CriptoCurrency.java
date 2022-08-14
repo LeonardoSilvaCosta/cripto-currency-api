@@ -34,6 +34,6 @@ public class CriptoCurrency {
     private int tvlRatio;
     @JsonProperty("last_updated")
     private OffsetDateTime lastUpdated;
-    private CriptoCurrencyQuotes quote;
+    private CriptoCurrencyQuote quote;
 
 }
