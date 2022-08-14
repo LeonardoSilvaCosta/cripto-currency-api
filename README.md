@@ -28,9 +28,6 @@ structure
 functionalities
 - [x] Integration application with CoinMarketCapApi
 - [x] Send a Requet to the api list criptocurrencies
-
-GET http://criptocurrencyapi-env-1.eba-ccqmhvnh.us-east-1.elasticbeanstalk.com/criptoCurrencies
-
 - [x] Modelation api reponse
 - [ ] List criptocurrency by id
 - [ ] Add new Criptocyrrency in the API list
@@ -52,6 +49,15 @@ GET http://criptocurrencyapi-env-1.eba-ccqmhvnh.us-east-1.elasticbeanstalk.com/c
 - [Spring devtools](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)
 - [Project Lombok](https://projectlombok.org/)
 - [Intelij IDEA](https://www.jetbrains.com/pt-br/idea/)
+
+---
+
+### 🛠 for test
+
+BASE_URL=http://criptocurrencyapi-env-1.eba-ccqmhvnh.us-east-1.elasticbeanstalk.com
+
+//lista todas as criptomoedas da API
+GET /criptoCurrencies
 
 ---
 
