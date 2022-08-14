@@ -15,37 +15,40 @@ Table of contents
 
 ### 💻 About
 
-This project aims to increase the skills of the author of this document in ReactJS.
-This project deals with a feed whose objective is to consolidate fundamental knowledge in ReactJS.
+This Project is under construction and aims to meet the demand of a cliente.
 
 ---
 ### Features
 
-- [x] Creating application with Vite
-- [x] Creating components
-- [x] Applying the concept of properties
-- [x] Using CSS Modules in the application
-- [x] Creating CSS global
-- [x] Creating Header component
-- [x] Creating Sidebar component
-- [x] Creating Post component
-- [x] Creating Comments form
-- [x] Creating Avatar component
-- [x] Applying responsiveness
-- [x] Iterating in jsx (using map function)
-- [x] Using useState
-- [x] Using declarative programming
-- [x] Components Communication
-- [x] Form validation
-- [x] Understanding closures in react
+structure
+- [x] Controller: CoinMarketCapApiController
+- [x] Model: CoinMarketAPiData, CriptoCurrency
+- [ ] Model: UserPost
+
+functionalities
+- [x] Integration application with CoinMarketCapApi
+- [x] Send a Requet to the api list criptocurrencies
+- [x] Modelation api reponse
+- [ ] List criptocurrency by id
+- [ ] Add new Criptocyrrency in the API list
+- [ ] Add a UserPost in the Database
+- [ ] List UserPost
+- [ ] UserPost.mood graphic
+- [ ] UserPost.ranking grafhic
+
 
 ### 🛠 Technologies
 
-- [ReactJS](https://pt-br.reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [date-fns](https://github.com/date-fns/date-fns)
-- [phosphor-react](https://www.npmjs.com/package/phosphor-react)
-- [vsCode](https://code.visualstudio.com/)
+- [JAVA11](https://www.oracle.com/br/java/technologies/javase/jdk11-archive-downloads.html)
+- [Spring initializr](https://start.spring.io/)
+- [Spring boot](https://spring.io/projects/spring-boot)
+- [Spring Web](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
+- [Spring data jpa](https://spring.io/projects/spring-data-jpa)
+- [Spring security](https://spring.io/projects/spring-security)
+- [Spring validation](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/validation.html)
+- [Spring devtools](https://docs.spring.io/spring-boot/docs/1.5.16.RELEASE/reference/html/using-boot-devtools.html)
+- [Project Lombok](https://projectlombok.org/)
+- [Intelij IDEA](https://www.jetbrains.com/pt-br/idea/)
 
 ---
 
