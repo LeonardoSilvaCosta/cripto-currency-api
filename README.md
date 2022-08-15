@@ -1,6 +1,6 @@
-<h1 align="center">Cripto Currency API</h1>
+<h1 align="center">Criptocurrency API</h1>
 <p align="center">A Rest API from a Criptocurrency project</p>
-<img src="https://img.shields.io/badge/Spring Boot-green">
+<img src="https://img.shields.io/static/v1?label=Spring&message=Work&color=6DB33F&style=for-the-badge&logo=SpringBoot">
 
 Table of contents
 =================
@@ -15,22 +15,23 @@ Table of contents
 
 ### 💻 About
 
-This Project is under construction and aims to meet the demand of a cliente.
+This Project is under construction and aims to meet the demand of a client.
 
 ---
 ### Features
 
 structure
 - [x] Controller: CoinMarketCapApiController
-- [x] Model: CoinMarketAPiData, CriptoCurrency
+- [x] Model: CoinMarketAPiData, CoinMarketResponseStatusData, CriptoCurrency, CriptoCurrencyPlatform, CriptoCurrencyQuote, USDCriptoCurrency.
 - [ ] Model: UserPost
 
 functionalities
-- [x] Integration application with CoinMarketCapApi
-- [x] Send a Requet to the api list criptocurrencies
-- [x] Modelation api reponse
+- [x] Application integration with CoinMarketCapApi
+- [x] Submit a Requet to the api criptocurrency list
+- [x] Api response modeling
 - [ ] List criptocurrency by id
 - [ ] Add new Criptocyrrency in the API list
+- [ ] Application integration with MYSQL
 - [ ] Add a UserPost in the Database
 - [ ] List UserPost
 - [ ] UserPost.mood graphic
@@ -52,13 +53,21 @@ functionalities
 
 ---
 
+### for test
+
+BASE_URL=http://criptocurrencyapi-env-1.eba-ccqmhvnh.us-east-1.elasticbeanstalk.com
+
+GET /criptoCurrencies - lista todas as criptomoedas da API
+
+---
+
 ### Author
 [Leonardo da Silva Costa](https://www.linkedin.com/in/leonardo-da-silva-costa/)
 
 Em busca do próximo nível 🚀 - Never stop learning. 🧑‍🎓
 
 <h4 align="center"> 
-	:tada:  🚀 Finalized  :tada:
+	 👷 Under Construction  🚧
 </h4>
 
 
