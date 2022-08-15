@@ -26,11 +26,12 @@ structure
 - [ ] Model: UserPost
 
 functionalities
-- [x] Integration application with CoinMarketCapApi
-- [x] Send a Requet to the api list criptocurrencies
-- [x] Modelation api reponse
+- [x] Application integration with CoinMarketCapApi
+- [x] Submit a Requet to the api criptocurrency list
+- [x] Api response modeling
 - [ ] List criptocurrency by id
 - [ ] Add new Criptocyrrency in the API list
+- [ ] Application integration with MYSQL
 - [ ] Add a UserPost in the Database
 - [ ] List UserPost
 - [ ] UserPost.mood graphic
