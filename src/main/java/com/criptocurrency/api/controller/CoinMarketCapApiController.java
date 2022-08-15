@@ -5,6 +5,7 @@ import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -16,6 +17,7 @@ public class CoinMarketCapApiController {
 
     private String apiKey = "c4f98fc4-8cf3-413c-bfce-75a6bb5ed3e7";
 
+    @CrossOrigin("*")
     @GetMapping
     public ResponseEntity<CoinMarketApiData> listCriptoCurrencies() {
         String url = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest";
